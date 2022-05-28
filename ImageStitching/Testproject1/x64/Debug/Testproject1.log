@@ -1,0 +1,27 @@
+﻿  Panorama.cpp
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(86): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(86): warning C4309: 'argument': truncation of constant value
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(189): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(206): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(207): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(274): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(274): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(325): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(390): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(398): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(399): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(425): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\imagestitchingnormhomography\testproject1\panorama.cpp(451): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Testproject1.vcxproj -> C:\Users\Daniel Kuknyo\source\repos\ImageStitchingNormHomography\x64\Debug\Testproject1.exe
