@@ -1,0 +1,2 @@
+﻿  Testproject1.cpp
+opencv_world453d.lib(opencv_world453d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

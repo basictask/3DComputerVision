@@ -1,0 +1,42 @@
+﻿  Triangulation.cpp
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(98): warning C4305: 'argument': truncation from 'int' to 'char'
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(98): warning C4309: 'argument': truncation of constant value
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(153): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(212): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(219): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(239): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(276): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(297): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(298): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(317): warning C4305: '/=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(318): warning C4305: '/=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(325): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(348): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\standardstereotriangulation\testproject1\triangulation.cpp(372): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Testproject1.vcxproj -> C:\Users\Daniel Kuknyo\source\repos\StandardStereoTriangulation\x64\Debug\Testproject1.exe
