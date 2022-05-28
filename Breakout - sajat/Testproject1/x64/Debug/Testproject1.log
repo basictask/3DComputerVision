@@ -1,0 +1,6 @@
+﻿  Testproject1.cpp
+c:\users\daniel kuknyo\source\repos\breakout - sajat\testproject1\testproject1.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\daniel kuknyo\source\repos\breakout - sajat\testproject1\testproject1.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\daniel kuknyo\source\repos\breakout - sajat\testproject1\testproject1.cpp(120): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\breakout - sajat\testproject1\testproject1.cpp(121): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Testproject1.vcxproj -> C:\Users\Daniel Kuknyo\source\repos\Breakout - sajat\x64\Debug\Testproject1.exe

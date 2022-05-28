@@ -1,0 +1,23 @@
+﻿  PlaneRANSAC.cpp
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(82): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(83): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(84): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(88): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(100): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\daniel kuknyo\source\repos\seqransac\testproject1\planeransac.cpp(103): warning C4305: 'argument': truncation from 'double' to 'float'
+  Testproject1.vcxproj -> C:\Users\Daniel Kuknyo\source\repos\SeqRANSAC\x64\Debug\Testproject1.exe
